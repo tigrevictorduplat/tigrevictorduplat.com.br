@@ -1,0 +1,51 @@
+body {
+    font-family: "Major Mono Display", monospace;
+    color: #EFFBF4;
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  .nav-bar {
+    height: 2em;
+    padding: 0.3em;
+    display: flex;
+    background-color: rgba(2, 2, 2, 0.75);  
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .mygithub-logo {
+    width: 40px;
+  }
+  .container {
+    text-align: center;
+    padding: 1.5em;
+    position: relative;
+    background-color: rgba(13, 40, 24, 0.75);
+    border-top: 0.05em solid rgba(174, 213, 235, 0.65);
+  }
+  .page-title {
+    font-size: 75px;
+    color: #00B812;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 75px;
+    /* Neon Blue Shadow */
+    text-shadow: 2px 3px 4px rgba(90, 215, 140, 0.65);
+    margin: 0 0 5px;
+  }
+
+  .link-list > ul{
+    display: inline-block;
+  }
+
+  a {
+    color: #A5E9C0;
+  }
+  a:visited {
+    color: #5AD78C;
+  }
+  
+  
