@@ -18,12 +18,15 @@ body {
   .mygithub-logo {
     width: 40px;
   }
+  .title-icon {
+    width: 40px;
+  }
   .container {
     text-align: center;
     padding: 1.5em;
     position: relative;
     background-color: rgba(13, 40, 24, 0.75);
-    border-top: 0.05em solid rgba(174, 213, 235, 0.65);
+    border-top: 0.05em solid rgba(15, 154, 71, 0.65);
   }
   .page-title {
     font-size: 75px;
