@@ -2,11 +2,11 @@
 Este repositório é destinado a guardar as atividades feitas na disciplina de *Linguagem de Programação 3*. No arquivo index da pasta há um sumário que leva para cada lista que por sua vez leva para cada página, no fim tendo todos os códigos conectados formando assim um portifólio.
     OBS: Todas as páginas, obrigatoriamente, deveriam usar apenas HTML. Sem nenhum indício de CSS
 - Lista 1
-    - Questão 1
-    - Questão 2
-    - Questão 3
+    - [Questão 1](#questão-1---dicionário-médico)
+    - [Questão 2](#questão-2---descrição-de-lei)
+    - [Questão 3](#questão-3---usando-icones)
 - Lista 2
-    - Desafio: História da Copa
+    - [Desafio: História da Copa](#lista-2---html-básico-pt-2)
 
 ## Lista 1 - HTML Básico pt 1
 Dada a imagem de uma página construída, tivemos que tentar reconstruí-la usando os *conhecimentos de HTML passados pelo professor*. 
