@@ -26,7 +26,7 @@
     <a href="lista1/lista1.php"><p>Lista I</p></a>
     <a href="lista2/lista2.php"><p>Lista II</p></a>
     <h3>Atividade 02 - IMAGENS E LINKS</h3>
-    <a href=""><p>Lista III</p></a>
+    <a href="lista3/lista3.php"><p>Lista III</p></a>
     <h3>Atividade 03 - TABELAS</h3></li>
     <a href=""><p>Lista IV</p></a>
   </div>
