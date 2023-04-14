@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../styles/mainstyle.css">
     <link rel="shortcut icon" href="../src/morpheus.ico" type="image/x-icon">
-    <title>Lista III</title>
+    <title>Lista IV</title>
 </head>
 <body background="../src/matrix-background.jpg">
 <header class="nav-bar">
@@ -22,10 +22,10 @@
     Meus Projetos
   </h1>
   <div class="link-list">
-    <a href="questao1/pag1.html"><h3>Questão 01 - Páginas Lineares</h3></a>
-    <a href="questao2.html"><h3>Questão 02 - Links Úteis </h3></a>
-    <a href="uniaobavi.html"><h3>Questão 03 - União Bavi</h3></a>
-    <a href="questao4.html"><h3>Questão 04 - Lançamentos 2008</h3></a>
+    <a href="questao1.php"><h3>Questão 01 - Sessões com Tabelas</h3></a>
+    <a href="questao2.html"><h3>Questão 02 - Brasileirão 2010  </h3></a>
+    <a href="questao3.html"><h3>Questão 03 - Horário Escolar</h3></a>
+    <a href="questao4.html"><h3>Questão 04 - Viação Extremo Sul </h3></a>
     <a href="../index.php"><h3>Voltar ao início</h3></a>
   </div>
 </main>

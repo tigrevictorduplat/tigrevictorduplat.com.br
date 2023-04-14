@@ -28,7 +28,7 @@
     <h3>Atividade 02 - IMAGENS E LINKS</h3>
     <a href="lista3/lista3.php"><p>Lista III</p></a>
     <h3>Atividade 03 - TABELAS</h3></li>
-    <a href=""><p>Lista IV</p></a>
+    <a href="lista4/lista4.php"><p>Lista IV</p></a>
   </div>
   
 </main>
