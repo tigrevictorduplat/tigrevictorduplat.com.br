@@ -14,7 +14,7 @@
     <img src="https://avatars.githubusercontent.com/u/98099656?v=4" alt="" class="mygithub-logo">
   </a>
   <a href="https://www.flaticon.com/free-icons/matrix" title="matrix icons" target="_blank">
-    <img src="/src/sumarios/morpheus.png" alt="Morpheus Icon" class="title-icon">
+    <img src="../src/sumarios/morpheus.png" alt="Morpheus Icon" class="title-icon">
 </a>
 </header>
 <main class="container">
