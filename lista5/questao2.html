@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form - Cadastro Universidade</title>
+</head>
+<body>
+    <font face="Arial, sans serif">
+    <p>SISTEMA DE GESTÃO ACADÊMICA</p>
+   <strong><p>MANUTENÇÃO DOS USUÁRIOS DO SISTEMA INTERNO</p></strong>
+   <form>
+    <table width="25%">
+        <tr>
+            <td colspan="2"></td>
+        </tr><tr>
+            <td colspan="2"></td>
+        </tr>
+        <tr >
+            <td>
+                <label for="login"><strong>Login:</strong></label>
+            </td>
+            <td>
+                <input type="text" name="login">
+            </td>
+        </tr>
+        <tr >
+            <td>
+                <label for=""><strong>Senha: </strong></label>
+            </td>
+            <td>
+                <input type="password"> 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="Status"><strong>Status: </strong></label>
+            </td>
+            <td>
+                <input name="status" list="status" size="10"/>
+                <datalist id="status">
+                    <option value="Ativo">
+                    <option value="Inativo">
+                </datalist>
+            </td>
+        </tr>
+</table>    
+</form>
+</font>
+</body>
+</html>
