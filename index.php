@@ -29,6 +29,10 @@
     <a href="lista3/lista3.php"><p>Lista III</p></a>
     <h3>Atividade 03 - TABELAS</h3></li>
     <a href="lista4/lista4.php"><p>Lista IV</p></a>
+    <h3>Atividade 04 - FORMULÁRIOS</h3></li>
+    <a href="lista5/lista5.php"><p>Lista V</p></a>
+    <h3>Atividade 05 - CSS</h3></li>
+    <a href=""><p>Lista VI</p></a>
   </div>
   
 </main>

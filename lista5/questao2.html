@@ -8,15 +8,22 @@
 </head>
 <body>
     <font face="Arial, sans serif">
-    <p>SISTEMA DE GESTÃO ACADÊMICA</p>
-   <strong><p>MANUTENÇÃO DOS USUÁRIOS DO SISTEMA INTERNO</p></strong>
+        <table width="100%">
+            <tr>
+                <td bgcolor="darkorange">
+                    <p>SISTEMA DE GESTÃO ACADÊMICA</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong><p>MANUTENÇÃO DOS USUÁRIOS DO SISTEMA INTERNO</p></strong>
+                </td>
+            </tr>
+        </table>
+    <br>
    <form>
-    <table width="25%">
-        <tr>
-            <td colspan="2"></td>
-        </tr><tr>
-            <td colspan="2"></td>
-        </tr>
+    <table width="60%">
+
         <tr >
             <td>
                 <label for="login"><strong>Login:</strong></label>
@@ -38,14 +45,78 @@
                 <label for="Status"><strong>Status: </strong></label>
             </td>
             <td>
-                <input name="status" list="status" size="10"/>
+                <input name="status" list="status" size="10" placeholder="Inativo"/>
                 <datalist id="status">
                     <option value="Ativo">
                     <option value="Inativo">
                 </datalist>
             </td>
         </tr>
-</table>    
+        <tr>
+            <td>
+                <label for="tipo"><strong>Tipo</strong></label>
+            </td>
+            <td>
+            <div>       
+                <input type="radio" name="tipo" id="escolha1" value="tecnico">
+                <label for="escolha1"><strong>Técnico</strong></label>
+                <input type="radio" name="tipo" id="escolha2" value="professor">
+                <label for="escolha2"><strong>Professor</strong></label>
+                <input type="radio" name="tipo" id="escolha3" value="aluno">
+                <label for="escolha3"><strong>Aluno</strong></label>
+            </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="datacriacao"><strong>Data da Criação</strong></label>
+            </td>
+            <td>
+                <input type="date" name="datacriacao" id="datacriacao" >
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="perfil"><strong>Perfil</strong></label>
+            </td>
+            <td>
+            <div>       
+                <input type="radio" name="perfil" id="escolha1" value="convidado">
+                <label for="escolha1"><strong>Convidado</strong></label>
+                <input type="radio" name="perfil" id="escolha2" value="adm">
+                <label for="escolha2"><strong>Admininstrador</strong></label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="comentario"><strong>Comentário:</strong></label> <br>
+            </td>
+            <td>
+                <textarea name="comentario" id="txtcoment" cols="50" rows="8"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="modulo"><strong>Módulo</strong></label>
+            </td>
+            <td>
+            <div>       
+                <input type="checkbox" name="modulo" id="escolha1" value="compras">
+                <label for="escolha1"><strong>Compras</strong></label>
+                <input type="checkbox" name="modulo" id="escolha2" value="biblioteca">
+                <label for="escolha2"><strong>Biblioteca</strong></label>
+                <input type="checkbox" name="modulo" id="escolha3" value="academico">
+                <label for="escolha3"><strong>Acadêmico</strong></label><br><br>
+                <input type="checkbox" name="modulo" id="escolha4" value="documentacao">
+                <label for="escolha4"><strong>Documentação</strong></label>
+                <input type="checkbox" name="modulo" id="escolha5" value="RH">
+                <label for="escolha5"><strong>Recursos Humanos</strong></label>
+            </div>
+            </td>
+        </tr>
+</table>
+<button>Cadastrar</button>
+<button>Excluir</button> 
 </form>
 </font>
 </body>
