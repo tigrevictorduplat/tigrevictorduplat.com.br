@@ -32,7 +32,7 @@
     <h3>Atividade 04 - FORMULÁRIOS</h3></li>
     <a href="lista5/lista5.php"><p>Lista V</p></a>
     <h3>Atividade 05 - CSS</h3></li>
-    <a href=""><p>Lista VI</p></a>
+    <a href="lista6/lista6.php"><p>Lista VI</p></a>
   </div>
   
 </main>
