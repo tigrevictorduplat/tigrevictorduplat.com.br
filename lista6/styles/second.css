@@ -1,0 +1,17 @@
+body {
+    background-color: lightgoldenrodyellow;
+    background-image: url("../../src/img-style/sand-pattern.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+hr{
+    color: yellow;
+}
+p{
+   text-align: center;
+}
+a:link, a:visited {
+    color: lightgoldenrodyellow;
+    text-decoration: none;
+    cursor: pointer;
+}

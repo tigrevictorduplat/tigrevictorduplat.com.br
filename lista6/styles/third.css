@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(60, 27, 53);
+    font: medium 14px "Verdana";
+    text-align: center;
+    color: yellow;
+}
+p{
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+}
+
+#arial{
+    font: "Arial";
+    color: red;
+    float: left;
+}
+
+#times{
+    font: 22px "Times New Roman";
+    color: green;
+    float: left;
+}
+
+#comics{
+    font: italic 20px "Comic Sans MS";
+    color: blue;
+    float: left;
+}
