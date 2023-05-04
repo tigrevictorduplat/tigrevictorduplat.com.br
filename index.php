@@ -33,6 +33,8 @@
     <a href="lista5/lista5.php"><p>Lista V</p></a>
     <h3>Atividade 05 - CSS</h3></li>
     <a href="lista6/lista6.php"><p>Lista VI</p></a>
+    <h3>Atividade 06 - Margin & Border</h3></li>
+    <a href="lista7/lista7.php"><p>Lista VII</p></a>
   </div>
   
 </main>

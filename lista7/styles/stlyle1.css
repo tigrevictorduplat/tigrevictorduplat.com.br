@@ -1,0 +1,19 @@
+#q1 p{
+width: 150px;
+height: 100px;
+color: white;
+font: Arial;
+background-color: lightgreen;
+
+border: 2px;
+border-top: blue dashed ;
+border-right: none;
+border-bottom: red double;
+border-left: yellow dotted;
+
+padding: 10px 0px 0px 10px;
+}
+
+#q1 img {
+    width: 80%;
+}
