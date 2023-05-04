@@ -17,3 +17,27 @@ padding: 10px 0px 0px 10px;
 #q1 img {
     width: 80%;
 }
+
+#q2 img {
+    width: 10%;
+}
+
+.banner1{
+margin-left: 25%;
+}
+.banner2{
+    margin-left: 50%;
+}
+.banner3{
+    margin-left: 90%;
+}
+.banner4{
+    margin: 10px 0 0 90%;
+}
+.banner5{
+    margin-left: 90%;
+
+}
+.banner6{
+margin-left: 10px;
+}
