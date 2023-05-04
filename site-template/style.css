@@ -1,0 +1,15 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    float: left;
+}
+header{
+    width: 25%;
+}
+header > img {
+    width: 100%;
+    margin: 10px 0 10px;
+}
+
+nav {
+    width: 75%;
+}
