@@ -1,0 +1,42 @@
+*{
+    font: bold Arial;
+    float: left;
+}
+
+header {
+    width: 50%;
+    border: 1px solid blue;
+}
+.logo {
+    margin: 0.75em;
+    height: 100%;
+}
+table {
+width: 80%;
+table-layout: fixed;
+border-collapse: collapse;
+}
+td{
+    margin: auto 1.25em;
+}
+
+
+#noticia{
+    color: red;
+ border-top: 5px solid red;
+}
+#esporte{
+    color: rgb(111, 149, 37);
+    border-top: 5px solid rgb(111, 149, 37);
+   }
+#entretenimento{
+    color: orange;
+    border-top: 5px solid orange;
+   }
+#video{
+    color: blue;
+    border-top: 5px solid blue;
+   }
+   form * {
+    margin: 0.25em 0.75em;
+   }
