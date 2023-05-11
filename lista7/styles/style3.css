@@ -21,6 +21,7 @@ td{
 }
 
 
+
 #noticia{
     color: red;
  border-top: 5px solid red;
@@ -39,4 +40,10 @@ td{
    }
    form * {
     margin: 0.25em 0.75em;
+   }
+
+   #return {
+    float:none;
+    
+
    }
