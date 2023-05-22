@@ -1,22 +1,53 @@
+@font-face {
+    font-family: 'Dune Rise';
+    src: url(src/font/Dune_Rise.ttf);
+}
+
 *{
-    color: darkgreen;
+    float: left;
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-header{
-    width: 25%;
-    height: 25%;
-    background-color: blueviolet
-}
-header > img {
+html, body{
     width: 100%;
-    margin: 10px 0;
 }
-#whitespacing{
-width: 25%;
+body{
+    background-color: #F2C46D;
+    padding: 0 1rem;
 }
-nav {
-    float: right;
-    width: 50%;
-    height: 25%;
-    background-color: darkolivegreen
+
+header{
+    background-color: rgb(135, 222, 209);
+    width: 100%;
+}
+.logo{
+    font: 400 1.25em 'Dune Rise';    
+    padding: 0.15rem 0.25rem;
+    width: 25%;
+    
+}
+nav{
+    width: 75%;
+    background-color: rebeccapurple;
+}
+
+nav span {
+    display: inline-block;
+    text-align: center;
+    margin: 0 0.15rem;
+}
+
+main{
+    background-color: green;
+    width: 100%;
+}
+section{
+    background-color: orange;
+    width: 100%;
+}
+footer{
+    width: 100%;
+    background-color: pink;
 }
