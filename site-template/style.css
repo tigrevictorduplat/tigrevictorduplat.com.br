@@ -21,7 +21,7 @@ body{
 #container{
     align-self: center;
     width: 800px;
-    height: 1024px;
+    height: 1080px;
     margin: 0.15rem 323px;
     background: linear-gradient(180deg, rgba(219, 139, 65, 0.8) 0%, rgba(253, 219, 154, 0.5) 31.77%, #F2C46D 68.75%);
 }
@@ -78,16 +78,63 @@ main > div > img {
 section{
     background-color: orange;
     width: 100%;
-    height: 50%;
+    height: 60%;
 }
 section > div {
     padding: 1rem 1.25rem
+}
+#topic-head {
+    font: 600 1.25rem 'Dune Rise';
+    width: 100%;
+}
+.subtitle{
+    font-size: 1rem;
+    color: #8C4F2B;
+}
+.description{
+    font-size: 0.75rem;
+    width: 100%;
 }
 #left-content{
     width: 60%;
     height: 100%;
     background-color: aqua;
-    ;
+    
+}
+#topic2 {
+ margin: 1rem 0;
+}
+#topic2 h2 {
+    margin: 0.5rem 0;
+   }
+.topic2-img{
+    width: 50%;
+    height: 148px;
+}
+.topic2-img > img{
+    width: 33%;
+    height: 100%;
+    
+}
+.topic2-content{
+    width: 50%;
+    padding: 0.75rem;
+}
+#topic3{
+    height: 30%;
+}
+
+#topic3 > div {
+ width: 50%;
+ padding: 0.25rem 0.5rem;
+}
+.topic3-img {
+  width: 35%;
+  padding: 0.5rem 0.25rem;
+   }
+.topic3-content{
+    width: 65%;
+    padding: 0 0.5rem;
 }
 
 #right-content{
@@ -98,6 +145,7 @@ section > div {
 }
 
 footer{
+    height: 10%;
     width: 100%;
     background-color: pink;
 }
