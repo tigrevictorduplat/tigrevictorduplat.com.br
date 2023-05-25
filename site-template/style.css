@@ -22,7 +22,7 @@ body{
     align-self: center;
     width: 800px;
     height: 1080px;
-    margin: 0.15rem 323px;
+    margin: 0.15rem 30%;
     background: linear-gradient(180deg, rgba(219, 139, 65, 0.8) 0%, rgba(253, 219, 154, 0.5) 31.77%, #F2C46D 68.75%);
 }
 
