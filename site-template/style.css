@@ -76,7 +76,6 @@ main > div > img {
     width: 9rem;
 }
 section{
-    background-color: orange;
     width: 100%;
     height: 60%;
 }
@@ -98,7 +97,6 @@ section > div {
 #left-content{
     width: 60%;
     height: 100%;
-    background-color: aqua;
     
 }
 #topic2 {
@@ -128,11 +126,11 @@ section > div {
  width: 50%;
  padding: 0.25rem 0.5rem;
 }
-.topic3-img {
+.topic-img{
   width: 35%;
   padding: 0.5rem 0.25rem;
    }
-.topic3-content{
+.topic-content{
     width: 65%;
     padding: 0 0.5rem;
 }
@@ -140,12 +138,31 @@ section > div {
 #right-content{
     width: 40%;
     height: 100%;
-    background-color: rgb(197, 167, 113);
 
+}
+
+.recent {
+    height: 33%;
 }
 
 footer{
     height: 10%;
     width: 100%;
-    background-color: pink;
+    background: linear-gradient(180deg, #F2C46D 0%, rgba(253, 219, 154, 0.5) 27.6%, rgba(219, 139, 65, 0.8) 76.56%);
+    opacity: 0.5;
+}
+
+#footer {
+    float: none;
+    text-align: center;
+    display: block;
+    padding: 0.25rem 1rem;
+}
+
+.foot-text{
+    color: #573313;
+    padding: 1rem 1rem 0.25rem;
+}
+.trademark {
+    color: #57331368;
 }
